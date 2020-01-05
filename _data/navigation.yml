@@ -6,7 +6,3 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /login.html
-  new_window: true
-  highlight: false
