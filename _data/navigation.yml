@@ -7,6 +7,6 @@
   new_window: false
   highlight: false
 - name: Login
-  link: /
+  link: /login/
   new_window: true
   highlight: false
